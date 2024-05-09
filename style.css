@@ -1,0 +1,33 @@
+body{
+background-color: black;
+color: blue;
+
+
+}
+.full{
+    padding: 100px;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    margin: 25%;
+    background-color: rgb(35, 35, 36);
+    border: 2px solid blue;
+text-align: center;
+border-radius: 10%;
+}
+.nametype{
+    color: aqua;
+  font-size: 20px;
+    text-align: center;
+    border-radius: 10%;
+
+
+}
+.nametypea{
+     color: aqua;
+     font-size: 20px;
+     text-align: center;
+     border-radius: 10%;
+     background-color: rgb(29, 41, 146);
+     border: 0px;
+
+}
